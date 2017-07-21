@@ -346,6 +346,25 @@ th {
   padding: 0;
 }
 
+
+
+
+
+
+
+/*custom css by thilina*/
+footer {background-color: #F3F3F3;}
+
+
+
+
+
+
+
+
+
+
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -11548,7 +11567,7 @@ fieldset[disabled]
 .btn-primary {
   color: #fff;
   background-color: #3695eb;
-  border-color: #3086D3;
+  border-color: #3695eb;
 }
 
 .btn-primary:focus, .btn-primary.focus, .btn-primary:hover, .btn-primary:active, .btn-primary.active,
